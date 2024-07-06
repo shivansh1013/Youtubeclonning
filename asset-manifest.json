@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/shivansh1013/Youtubeclonning/static/css/main.b38f5308.css",
+    "main.js": "//github.com/shivansh1013/Youtubeclonning/static/js/main.f073673e.js",
+    "index.html": "//github.com/shivansh1013/Youtubeclonning/index.html",
+    "main.b38f5308.css.map": "//github.com/shivansh1013/Youtubeclonning/static/css/main.b38f5308.css.map",
+    "main.f073673e.js.map": "//github.com/shivansh1013/Youtubeclonning/static/js/main.f073673e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b38f5308.css",
+    "static/js/main.f073673e.js"
+  ]
+}
